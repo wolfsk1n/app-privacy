@@ -2,4 +2,4 @@
 
 ## Apps
 
-- [RepTrack](reptrack.html)
+- [RepTrack](reptrack.md)
