@@ -16,7 +16,7 @@ Controller responsible for data processing in connection with this app:
 
 **AquaTerraLife**
 Responsible person: Nils Behr
-Postal address: **[insert postal address before publication]**
+Postal address: Ludwig-Richter-Str. 16, 53123 Bonn, Germany
 Contact: **[aquaterralife.apps@gmail.com](mailto:aquaterralife.apps@gmail.com)**
 
 ---
@@ -550,7 +550,7 @@ Verantwortlicher für die Datenverarbeitung im Zusammenhang mit dieser App:
 
 **AquaTerraLife**
 Verantwortliche Person: Nils Behr
-Anschrift: **[vor Veröffentlichung ladungsfähige Anschrift ergänzen]**
+Anschrift: Ludwig-Richter-Str. 16, 53123 Bonn
 Kontakt: **[aquaterralife.apps@gmail.com](mailto:aquaterralife.apps@gmail.com)**
 
 ---
